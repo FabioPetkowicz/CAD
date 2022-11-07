@@ -1,0 +1,19 @@
+aag 11 5 0 2 6
+2 = i0
+4 = i1
+6 = i2
+8 = i3
+10 = i4
+19 = o0
+23 = o1
+12 6 2 = a0
+14 8 6 = a1
+16 15 4 = a2
+18 17 13 = a3
+20 15 10 = a4
+22 21 17 = a5
+
+--> Calcular o tamanho do Array:
+13 + 2(numero_ands) = 13 + 2(6) = 25 posições.
+5 + 2 + (3*6) = 25 posições
+===> Total de Linhas -1 + 2(A)
