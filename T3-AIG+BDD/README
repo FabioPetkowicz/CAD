@@ -1,0 +1,22 @@
+1) Os arquivos foram compilados em terminal bash Linux.
+2) Para compilar foi utilizado o seguinte comando:
+g++ -o main main.cpp
+
+3) Para executar foi utilizao o seguinte comando:
+./main
+
+4) É possível realizar a compilação através do shell script: "compile.sh"
+No terminal digite: ./compile.sh 
+
+5) Os 3 trabalhos serão executados (T1,T2,T3) e 
+a saída do Trabalho 3 estará em destaque no final.
+
+6) O arquivo Analise-T3.jpg contém a análise prévia e final realizada junto com o trabalho.
+
+
+7) Enunciado do Trabalho 3:
+Aula 23 - Trabalho T3
+Trabalho 3: Usar o trabalho 2 para construir um BDD para cada saída do AIG. 
+Começem olhando o leitor de AIGs acima e me contatem para esclarecer eventuais dúvidas. 
+Note que este trabalho já é quase a metade do TF-parte 1, no caso a parte de equivalência com BDDs. 
+Inclusive, quem estiver buscando o C apresenta T3 como TF.
